@@ -1,5 +1,6 @@
 *.png
 *.jpg
-*.txt
-*.csv
-*.tsv
+tweet_json.txt
+twitter_archive_master.csv
+twitter-archive-enhanced.csv
+image_predictions.tsv
