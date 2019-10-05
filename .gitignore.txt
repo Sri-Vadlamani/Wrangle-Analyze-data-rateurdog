@@ -1,0 +1,4 @@
+Pics
+*.csv
+*.tsv
+*.txt
